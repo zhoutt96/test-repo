@@ -1,3 +1,6 @@
 [submodule "556"]
 	path = 556
 	url = https://github.com/zhoutt96/556
+[submodule "git-poc-master"]
+	path = git-poc-master
+	url = ssh://git@bitbucket.oci.oraclecorp.com:7999/~tingzhou/git-poc-master.git
